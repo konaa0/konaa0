@@ -1,4 +1,4 @@
- *vornexx.*
+ *kona.*
 ===============================================================================================================================
 
 mrow
@@ -17,8 +17,22 @@ mrow
 (i dont actually know how to write them from scratch, but i can edit/modify in the languages above 😭)
 
 
-### *Badges ⚓*
+# About
+### You can check my main site at  __ https://kona.is-a.dev__
 
-<b>*My GitHub Stats*</b>
+`From : Trinidad (Trinidad & Tobago)` 
+     
+⏵*buttermilk* is a *yummy* word
 
-<a href="http://www.github.com/vornexx"><img src="https://github-readme-stats.vercel.app/api?username=vornexx&show_icons=true&hide=stars,issues,&count_private=true&title_color=207df8&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=false&show_icons=true" alt="vornexx's GitHub stats" /></a>
+⏵email: [kona@disroot.org](mailto:kona@disroot.org)
+
+⏵laptop: [`SF314-512T-56CT (i5-1240P)`](https://store.acer.com/en-us/swift-3-laptop-sf314-512t-56ct)
+
+⏵server(nuc): [`BMAX B3 Mini`](https://a.co/d/7U51ykz), [2](https://www.bmaxit.com/Maxmini-B3-New-pd714800688.html)
+
+⏵phone: [`Google Pixel 7a (lynx)`](https://a.co/d/drQCDS2)
+
+⏵you can contact me via [__discord__](https://discord.com/users/1149438819834269856) or my [__email__](mailto:kona@disroot.org).
+
+![Started Wed, 9th Apr, 2025](https://mayu.due.moe/get/@k0n4?theme=asoul&padding=6)~~~
+***
