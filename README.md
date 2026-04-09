@@ -18,7 +18,7 @@ mrow
 
 
 # About
-### You can check my main site at  __ https://kona.is-a.dev__
+### You can check my main site at [*kona.is-a.dev*](https://kona.is-a.dev)
 
 `From : Trinidad (Trinidad & Tobago)` 
      
