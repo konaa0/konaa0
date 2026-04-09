@@ -33,5 +33,5 @@ mrow
 
 ⏵you can contact me via [__discord__](https://discord.com/users/1149438819834269856) or my [__email__](mailto:kona@disroot.org).
 
-![Started Wed, 9th Apr, 2025](https://mayu.due.moe/get/@k0n4?theme=asoul&padding=6)~~~
+![konaa0](https://mayu.due.moe/get/@konaa0?theme=garukura&padding=6)~~~
 ***
