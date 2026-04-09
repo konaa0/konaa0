@@ -4,7 +4,7 @@
 mrow
 
 #### - ![tt](download-resizehood.com.png)  *I'm from in Trinidad & Tobago (Trinidad).*
-#### - `🌐`  *See my site(and see my spotify music data) at [my site](http://kona.is-a.dev)*
+#### - `🌐`  *See my site(and see my spotify music data) at [my site](http://kona.is-a.dev).*
 #### - `✉️`  *You can contact me at [kona@disroot.org](mailto:kona@disroot.org)(rarely checked).*
 #### - `💻`  *My main devices I use is an *Acer Swift 3* (SF314-512T-56CT [i5-1240P]) for my laptop and// a *Google Pixel 7a (lynx)* for my phone.*
 
