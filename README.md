@@ -20,8 +20,6 @@ mrow
 ## *device specifics*
 ### You can check my main site at [*kona.is-a.dev*](https://kona.is-a.dev)
 
-`From : Trinidad (Trinidad & Tobago)` 
-     
 ⏵*buttermilk* is a *yummy* word
 
 ⏵email: [kona@disroot.org](mailto:kona@disroot.org)
