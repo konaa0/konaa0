@@ -1,6 +1,6 @@
  *kona.*
 ===============================================================================================================================
-
+## *general information*
 mrow
 
 #### - ![tt](download-resizehood.com.png)  *I'm from in Trinidad & Tobago (Trinidad).*
@@ -17,7 +17,7 @@ mrow
 (i dont actually know how to write them from scratch, but i can edit/modify in the languages above 😭)
 
 
-# About
+## *device specifics*
 ### You can check my main site at [*kona.is-a.dev*](https://kona.is-a.dev)
 
 `From : Trinidad (Trinidad & Tobago)` 
