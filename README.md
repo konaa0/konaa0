@@ -14,7 +14,7 @@ mrow
 <p align="left">
 <img alt="Languages / Frameworks" src="https://skillicons.dev/icons?i=html,css,svelte,astro,js,ts,md&perline=13">
 </p>
-(i dont actually know how to write them from scratch, but i can edit/modify in the languages above 😭)
+`(i dont actually know how to write them from scratch, but i can edit/modify in the languages above 😭)`
 
 
 ## *device specifics*
