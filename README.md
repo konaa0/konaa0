@@ -29,7 +29,7 @@ mrow
 
 ⏵*server(nuc)*: [`BMAX B3 Mini`](https://www.bmaxit.com/Maxmini-B3-New-pd714800688.html), [`2`](https://web.archive.org/web/20260523021056/https://www.bmaxit.com/Maxmini-B3-New-pd714800688.html) , `(no i dont run my website on my server cause its always down cause i cant make up my mind on stuff)`
 
-⏵*phone*: [`Google Pixel 7a (lynx)`](https://a.co/d/drQCDS2)
+⏵*phone*: [`Google Pixel 7a (lynx)`](https://www.gsmarena.com/google_pixel_7a-12170.php)
 
 ⏵you can contact me via [__discord__](https://discord.com/users/1149438819834269856) or my [__email__](mailto:kona@disroot.org).
 
