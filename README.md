@@ -27,7 +27,7 @@ mrow
 
 ⏵*laptop*: [`SF314-512T-56CT (i5-1240P)`](https://store.acer.com/en-us/swift-3-laptop-sf314-512t-56ct)
 
-⏵*server(nuc)*: [`BMAX B3 Mini`](https://a.co/d/7U51ykz), [`2`](https://www.bmaxit.com/Maxmini-B3-New-pd714800688.html) , `(no i dont run my website on my server cause its always down cause i cant make up my mind on stuff)`
+⏵*server(nuc)*: [`BMAX B3 Mini`](https://www.bmaxit.com/Maxmini-B3-New-pd714800688.html), [`2`](https://web.archive.org/web/20260523021056/https://www.bmaxit.com/Maxmini-B3-New-pd714800688.html) , `(no i dont run my website on my server cause its always down cause i cant make up my mind on stuff)`
 
 ⏵*phone*: [`Google Pixel 7a (lynx)`](https://a.co/d/drQCDS2)
 
